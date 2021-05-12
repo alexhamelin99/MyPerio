@@ -1,0 +1,812 @@
+
+.Ellipse2{
+  position: absolute;
+  width: 126px;
+  height: 126px;
+  left: 557px;
+  top: 49px;
+
+    border-radius:200px / 200px; 
+  
+  background: #1E87FD;
+}
+.Rectangle87{
+
+position: absolute;
+width: 635px;
+height: 27px;
+left: 328px;
+top: 274px;
+
+background: #EFEFEF;
+border-radius: 5px;
+}
+.Rectangle86{
+
+  position: absolute;
+  width: 635px;
+  height: 27px;
+  left: 328px;
+  top: 336px;
+  
+  background: #EFEFEF;
+  border-radius: 5px;
+  }
+  .AdresseMail{
+
+    position: absolute;
+width: 245px;
+height: 14px;
+left: 328px;
+top: 247px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+    }
+    .MotdePass{
+
+      position: absolute;
+width: 245px;
+height: 14px;
+left: 328px;
+top: 311px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+      }
+.MotDePasseoublié{
+  position: absolute;
+width: 244px;
+height: 14px;
+left: 236px;
+top: 381px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: right;
+text-decoration-line: underline;
+
+color: #7C7C7C;
+}
+.Radio{
+  
+width: 14px;
+height: 14px;
+background-color:#1E87FD;
+
+}
+.Radio2{
+  position: absolute;
+  top: 575px;
+  left: 428px
+}
+.Rectangle10{
+  position: absolute;
+  width: 138.57px;
+  height: 42.61px;
+  left: 551px;
+  top: 460px;
+  
+  background: #1E87FD;
+  border-radius: 15px
+  }
+  .MeConnecter{
+
+    position: absolute;
+width: 138.57px;
+height: 15.57px;
+left: 651px;
+top: 668.11px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+  }
+
+.Inscrivez_vous{
+position: absolute;
+width: 216px;
+height: 73px;
+left: 521px;
+top: 552px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+  }
+
+
+
+
+
+  .N°RPPS{
+    position: absolute;
+width: 300px;
+height: 17px;
+left: 301px;
+top: 209px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+  }
+
+
+.Rectangle85_2
+{position: absolute;
+  width: 719px;
+  height: 25px;
+  left: 301px;
+  top: 232px;
+  
+  background: #EFEFEF;
+  border-radius: 5px;
+}
+.Mot_de_Passe
+{
+  position: absolute;
+width: 300px;
+height: 17px;
+left: 301px;
+top: 281px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+.Rectangle88_2
+{position: absolute;
+  width: 719px;
+  height: 25px;
+  left: 301px;
+  top: 448px;
+  
+  background: #EFEFEF;
+  border-radius: 5px;
+}
+
+.Rectangle86_2
+{
+  position: absolute;
+width: 719px;
+height: 25px;
+left: 301px;
+top: 304px;
+
+background: #EFEFEF;
+border-radius: 5px;
+}
+.Rectangle87_2
+{
+  position: absolute;
+  width: 719px;
+  height: 25px;
+  left: 301px;
+  top: 376px;
+  
+  background: #EFEFEF;
+  border-radius: 5px;
+}
+.Rectangle10_2
+{
+  position: absolute;
+width: 170px;
+height: 52px;
+left: 640px;
+top: 717px;
+
+background: #1E87FD;
+border-radius: 15px;
+}
+
+
+.Minscrire {
+  position: absolute;
+  width: 170px;
+  height: 19px;
+  left: 640px;
+  top: 733px;
+  
+  font-family: Comfortaa;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+.confirmezMDP{
+  position: absolute;
+width: 300px;
+height: 17px;
+left: 301px;
+top: 353px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+}
+.connectez_Vous{
+  position: absolute;
+width: 202px;
+height: 32px;
+left: 519px;
+top: 640px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+
+}
+.AdresseMail_2{
+  position: absolute;
+width: 300px;
+height: 17px;
+left: 301px;
+top: 425px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+
+
+
+
+
+
+
+.BonjourDr{
+  position: absolute;
+width: 253px;
+height: 17px;
+left: 159px;
+top: 206px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+
+}
+.Rectangle15{
+  position: absolute;
+width: 1010px;
+height: 190px;
+left: 146px;
+top: 258px;
+
+background: #EFEFEF;
+border-radius: 20px;
+}
+.Rectangle10_2{
+  position: absolute;
+width: 458px;
+height: 323px;
+left: 230px;
+top: 483px;
+
+background: #59C9F9;
+border-radius: 20px;
+}
+.Rectangle11{
+  position: absolute;
+width: 458px;
+height: 323px;
+left: 767px;
+top: 483px;
+
+background: #1E87FD;
+border-radius: 20px;
+}
+.Création_du_profil{
+  position: absolute;
+width: 253.25px;
+height: 65.99px;
+left: 286.58px;
+top: 514.26px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+.Nouvelles_fonctionnalités{
+  position: absolute;
+width: 225px;
+height: 18px;
+left: 183px;
+top: 274px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+
+}
+.Découvrez{
+  
+position: absolute;
+width: 360px;
+height: 67px;
+left: 181px;
+top: 320px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+
+}
+
+.En_savoir_plus{
+  position: absolute;
+width: 225px;
+height: 14px;
+left: 182px;
+top: 409px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #59C9F9;
+
+}
+
+.selctionner_un_patient{
+  
+position: absolute;
+width: 336.76px;
+height: 39.94px;
+left: 831.66px;
+top: 514.26px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+}
+.En_quelques_clics1{
+  position: absolute;
+width: 253.25px;
+height: 20.84px;
+left: 286.58px;
+top: 757.38px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 11px;
+
+color: #FFFFFF;
+
+}
+
+.En_quelques_clics2{
+  position: absolute;
+width: 253.25px;
+height: 20.84px;
+left: 831.66px;
+top: 757.38px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 11px;
+
+color: #FFFFFF;
+
+}
+.ellipse13{
+position: absolute;
+width: 59px;
+height: 59px;
+left: 1157px;
+top: 40px;
+border-radius:200px / 200px;
+border: 3px solid #7e1313;
+box-sizing: border-box;
+
+}
+.hamburger{
+  position: absolute;
+  top: 40px;
+
+}
+
+.Minscrire_2{
+  position: absolute;
+width: 170px;
+height: 52px;
+left: 640px;
+top: 717px;
+
+background: #1E87FD;
+border-radius: 15px
+}
+
+
+
+
+
+
+
+.Rect{
+  position: absolute;
+width: 170px;
+height: 52px;
+left: 540px;
+top: 522px;
+
+background: #1E87FD;
+border-radius: 15px;
+}
+
+.Rect_2{
+position: absolute;
+width: 170px;
+height: 52px;
+left: 540px;
+top: 422px;
+
+background: #1E87FD;
+border-radius: 15px;
+}
+
+.MDP_2{
+  position: absolute;
+  left: 517px;
+  top: 49px;
+}
+.Ellipse2_0{
+  position: absolute;
+  width: 126px;
+  height: 126px;
+  left: 557px;
+  top: 119px;
+
+    border-radius:200px / 200px; 
+  
+  background: #1E87FD;
+}
+.Rectangle87_0{
+
+  position: absolute;
+  width: 635px;
+  height: 27px;
+  left: 328px;
+  top: 304px;
+  
+  background: #EFEFEF;
+  border-radius: 5px;
+  }
+
+.AdresseMail2_0{
+
+    position: absolute;
+width: 245px;
+height: 14px;
+left: 328px;
+top: 277px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+    }
+
+
+    .Ellipse2_0_0{
+      position: absolute;
+      width: 276px;
+      height: 266px;
+      left: 457px;
+      top: 29px;
+    
+        border-radius:200px / 200px; 
+      
+      background: #1E87FD;
+    }
+
+    .MDP_2_0{
+      position: absolute;
+      left: 417px;
+      top: 309px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* LOGOUT SWITCH */
+.logoutContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 30px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(95, 74, 165);
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: rgb(233, 108, 108);
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked+.slider {
+  background-color: rgb(121, 177, 66);
+}
+
+input:checked+.slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+/* END LOGOUT SWITCH */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
